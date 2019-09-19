@@ -54,3 +54,4 @@ these nerdy details interest you, here's [a good
 explanation](http://stackoverflow.com/questions/4185017/maximum-number-of-bash-arguments-max-num-cp-arguments).
 
 Zea Mays SNP Calling Project
+Project started 2013-01-03
